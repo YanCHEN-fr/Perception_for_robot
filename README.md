@@ -2,8 +2,8 @@
 
 This is a course (ROB313) project for ENSTA Robotics and contains the implementation and application of some basic algorithms.
 
-* **Author** : Yan CHEN
-* **Prof** : Antoine MANZANERA, Gianni FRANCHI
+* *Author* : Yan CHEN
+* *Prof* : Antoine MANZANERA, Gianni FRANCHI
 
 This project include 3 parts - 3D computer vison, Deep learning and Object tracking.
 
